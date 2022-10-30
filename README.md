@@ -1,1 +1,2 @@
-The implemented code is 1 part of a large course project on the subject of system analysis
+The implemented code is part 1 of a large course project on the subject of system analysis. 
+Also a test and training repository as part of the study of github
